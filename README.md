@@ -8,8 +8,8 @@
 -  Medalhista de Ouro na Olimpíada Nacional de Tecnologia e Inovação (OLITEF 2026)
 
   
-- 🔭 **Atualmente trabalhando em:** Projetos de automação, mods para Windows (Windhawk) e administração de Homelab (Proxmox/Docker)
-- 🌱 **Atualmente aprendendo:** Python, desenvolvimento de sistemas, lógica de programação e servidores Linux
+- 🔭 **Atualmente trabalhando em:** Projetos de automação, mods para Windows (Windhawk), canal de tecnologia, Testes com IA
+- 🌱 **Atualmente aprendendo:** Python, desenvolvimento de sistemas, lógica de programação e administração de Homelab (Proxmox/Docker)
 - 💬 **Me pergunte sobre:** Hardware, distribuições Linux, servidores de Minecraft e otimização de sistemas
 - 📫 **Onde me encontrar:** [<img src="https://img.shields.io/badge/YouTube-BitRize-FF0000?style=flat&logo=youtube&logoColor=white" />](https://www.youtube.com/@BitRizeBR)
 
@@ -20,5 +20,5 @@
 ### Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,docker,git,vscode,bash" alt="Linguagens e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=python,linux,docker,git,windows" alt="Linguagens e Ferramentas" />
 </p>
