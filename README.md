@@ -7,7 +7,7 @@ Minhas Conquistas/Honras
 
 Meu estado de vida
 
--🎓Atualmente Estudante, mas mirando sempre mais longe ;)
+-  **🎓Atualmente Estudante**, mas mirando sempre mais longe ;)
 
 Minhas paixões
 - 💻 Futuro técnico em **Desenvolvimento de Sistemas** pelo IFTM
