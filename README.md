@@ -1,16 +1,15 @@
-## Hi there 👋
+### Opa, beleza? eu sou o Bryan 
 
-<!--
-**BRUser1032/BRUser1032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![OLITEF Gold Medal](https://img.shields.io/badge/OLITEF_2026-Medalha_de_Ouro-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
 
-Here are some ideas to get you started:
+Minhas Conquistas/Honras
+-  **Medalhista de Ouro** na Olimpíada Nacional de Tecnologia e Inovação (OLITEF 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu estado de vida
+
+-Atualmente Estudante, mas mirando sempre mais longe ;)
+
+Minhas paixões
+- 💻 Futuro técnico em **Desenvolvimento de Sistemas** pelo IFTM
+- 🛠️ Entusiasta de Linux, hardware, homelab (Proxmox/Docker) e desenvolvimento em Python/Lua
+- 🎥 Criador de conteúdo de tecnologia no canal **[BitRize](https://www.youtube.com/@BitRizeBR)**
